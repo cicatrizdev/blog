@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     siteTitle: 'Pedro Mello - Blog',
     siteDescription: 'De dev para dev. Seu kick-start como desenvolvedor!',
-    siteImage: '/banner.png', // main image of the site for metadata
+    siteImage: '/banner.png',
     siteUrl: 'https://pedro-mello.netlify.com',
     pathPrefix: '/',
     siteLanguage: 'pt',
@@ -10,8 +10,8 @@ module.exports = {
     author: 'Pedro Mello',
     authorDescription: 'front-end dev 🏈🍺💻',
     avatar: '/perfil.jpg',
-    twitterSite: '', // website account on twitter
-    twitterCreator: '', // creator account on twitter
+    twitterSite: '',
+    twitterCreator: '',
     social: [
       {
         icon: `twitter`,
@@ -32,7 +32,6 @@ module.exports = {
       resolve: 'gatsby-theme-chronoblog',
       options: {
         uiText: {
-          // ui text fot translate
           feedShowMoreButton: 'mostrat mais',
           feedSearchPlaceholder: 'pesquisa aí!',
           cardReadMoreButton: 'leia mais →',
