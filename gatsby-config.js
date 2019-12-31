@@ -1,29 +1,29 @@
 module.exports = {
   siteMetadata: {
-    siteTitle: 'Chronoblog Starter',
-    siteDescription: 'Starter for Gatsby Theme Chronoblog',
+    siteTitle: 'Pedro Mello - Blog',
+    siteDescription: 'De dev para dev. Seu kick-start como desenvolvedor!',
     siteImage: '/banner.png', // main image of the site for metadata
-    siteUrl: 'https://chronoblog.now.sh/',
+    siteUrl: 'https://pedro-mello.netlify.com',
     pathPrefix: '/',
-    siteLanguage: 'en',
-    ogLanguage: `en_US`,
-    author: 'Site Author', // for example - 'Ivan Ganev'
-    authorDescription: 'short author description', // short text about the author
-    avatar: '/avatar.jpg',
+    siteLanguage: 'pt',
+    ogLanguage: `pt_BR`,
+    author: 'Pedro Mello',
+    authorDescription: 'front-end dev 🏈🍺💻',
+    avatar: '/perfil.jpg',
     twitterSite: '', // website account on twitter
     twitterCreator: '', // creator account on twitter
     social: [
       {
         icon: `twitter`,
-        url: `https://twitter.com/ganevru`
+        url: `https://twitter.com/`
       },
       {
         icon: `github`,
-        url: `https://github.com/Chronoblog/gatsby-theme-chronoblog`
+        url: `https://github.com/cicatrizwp`
       },
       {
-        icon: `node-js`,
-        url: `https://www.npmjs.com/package/gatsby-theme-chronoblog`
+        icon: `linkedin`,
+        url: `https://www.linkedin.com/in/pedro-c-mello`
       }
     ]
   },
@@ -33,10 +33,10 @@ module.exports = {
       options: {
         uiText: {
           // ui text fot translate
-          feedShowMoreButton: 'show more',
-          feedSearchPlaceholder: 'search',
-          cardReadMoreButton: 'read more →',
-          allTagsButton: 'all tags'
+          feedShowMoreButton: 'mostrat mais',
+          feedSearchPlaceholder: 'pesquisa aí!',
+          cardReadMoreButton: 'leia mais →',
+          allTagsButton: 'todas as tags'
         },
         feedItems: {
           // global settings for feed items

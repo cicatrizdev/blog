@@ -2,7 +2,7 @@ import chronoblogTheme from 'gatsby-theme-chronoblog/src/gatsby-plugin-theme-ui'
 
 export default {
   ...chronoblogTheme,
-  initialColorMode: 'light',
+  initialColorMode: 'dark',
   colors: {
     ...chronoblogTheme.color,
     text: '#222',
