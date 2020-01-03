@@ -14,10 +14,6 @@ module.exports = {
     twitterCreator: '',
     social: [
       {
-        icon: `twitter`,
-        url: `https://twitter.com/`
-      },
-      {
         icon: `github`,
         url: `https://github.com/cicatrizwp`
       },
