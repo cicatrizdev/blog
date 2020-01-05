@@ -1,10 +1,8 @@
 ---
 title: Hello, blog
 date: 2019-12-31
-description: Imagina uma descrição lindona.
+description: coming soon..
 tags: ['post']
 ---
 
-Tititi tétété
-
-Fala, blog!!!!
+Aguarde.
