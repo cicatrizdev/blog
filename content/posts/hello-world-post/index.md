@@ -1,11 +1,10 @@
 ---
 title: Hello, blog!
 date: 2020-01-010
+cover: ./image.jpg
 description: O aniversário é meu, mas o presente é de vocês! Digam olá para esse novo projeto pessoal :)
 tags: ['post']
 ---
-
-# Hello, blog!
 
 Esse é um momento muito importante pra mim. Vejo aqui a realização de um sonho, de ajudar as pessoas da forma que eu gostaria de ter sido ajudado lá no começo de tudo, quando tudo que eu tinha eram dúvidas e diversos caminhos para trilhar.
 
@@ -13,7 +12,7 @@ Antes de mais nada, vou me apresentar rapidamente e já explico pra vocês o por
 
 ---
 ## ./about-me
-Meu nome é **Pedro Celestino de Mello** (aka *Cicatriz*), provavelmente já terei completado 26 anos ${} no momento que você ler essa postagem, atualmente resido em Sampa e trampo como desenvolvedor front-end. Não caí de paraquedas na área de desenvolvimento, sempre tive uma paixão e curiosidade por entender como as coisas funcionam e logo menos me vi estudando *PawnScript* e *C*.
+Meu nome é **Pedro Celestino de Mello** (aka *Cicatriz*), provavelmente já terei completado 26 anos no momento que você ler essa postagem, atualmente resido em Sampa e trampo como desenvolvedor front-end. Não caí de paraquedas na área de desenvolvimento, sempre tive uma paixão e curiosidade por entender como as coisas funcionam e logo menos me vi estudando *PawnScript* e *C*.
 
 Comecei minha caminhada totalmente perdido. Por conta disso, naveguei um pouquinho em alguns dos mares que a área de tecnologia nos proporciona, como: *Segurança da Informação*, *Desenvolvimento de Jogos*, *Back-end*, *Front-end*, talvez alguns outros a mais.
 
