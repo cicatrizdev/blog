@@ -23,7 +23,7 @@ Bora entender o quê cada coisa significa antes de fazer uma escolha?
 > Pode ser tanto a definição de todo o dispositivo físico, como a definição da linha de comando que permite o usuário gerenciar todos recursos do sistema (inclusive os mais avançados).
 > > Vamos focar na segunda parte, ok?
 
-#### Minha opinião: 
+#### Minha opinião
 > Tela escura das trevas, que todo estudante tem medo e os lammers da geração pós Mr. Robot gostam de tirar print pingando o 127.0.0.1 ou usando o whois em algum domínio.
 >> Boatos que agiliza o desenvolvimento, quando pratica bastante e domina os atalhos. Bom pra quem não gosta/não tem como usar mouse.
 >>> Boatos que tem muito sênior por aí que não sabe mexer no git pelo terminal...
@@ -64,13 +64,13 @@ Beleza. Depois de instalar, tu ainda precisa fazer as configurações e ler a *d
 #### Definição formal
 > IDE - ou Integrated Development Environment (Ambiente de Desenvolvimento Integrado) - é um programa utilizado para desenvolvimento de sistemas. Geralmente, já vem com praticamente tudo instalado que você precisa (debugger, teste, gerenciamento de banco de dados, etc etc) e também com as configurações default pra te poupar o trampo. Uma mão na roda para o desenvolvimento de algumas tecnologias que você gastaria um tempinho configurando e instalando servidor, debugger, banco de dados, entre outros..
 
-#### Minha opinião: 
+#### Minha opinião
 > Programa pesadinho, que vem com muita rodinha que pode te travar na hora de dar suporte pra um cara que só tem um bloco de notas instalado no computador. Costuma ter tanta frescura que o Chrome fica com inveja do tanto de RAM que ele consome.
 > > Vai te poupar um pouco de trabalho, pode tornar algumas atividades menos manuais, mas também pode te viciar e te tornar "preguiçoso".
 
-![visual-studio-ide](./imgs/visual-studio.jpg)
-
 Já usei muitas IDEs e por bastante tempo, principalmente quando trabalhei com tecnologias da Microsoft e com PHP.
+
+![visual-studio-ide](./imgs/visual-studio.jpg)
 
 Algumas *IDEs são focadas em determinado nicho* de uma tecnologia em especial. Por exemplo, o [IntelliJ](https://www.jetbrains.com/idea/) é voltado para **Java**, enquanto o [Visual Studio](https://visualstudio.microsoft.com/vs/) é voltado para as tecnologias da **Microsoft**.
 
@@ -89,15 +89,15 @@ Resumindo: escolha uma IDE baseada no que será feito e nas suas necessidades, f
 ---
 ## ./editor-de-texto
 
-#### Definição formal:
+#### Definição formal
 > É uma aplicação que permite a edição de arquivos/ficheiros de texto. Os editores de texto voltados para desenvolvedores incluem um realce de sintaxe, destacando o código fonte de acordo com a tecnologia utilizada.
 
-#### Minha opinião:
+#### Minha opinião
 > É leve, roda até no computador de bordo paraguaio que seu pai colocou naquele Opalão da época que Vila Sésamo lançava episódios, a comunidade que faz as extensões é gigantesca e o programa te dá a liberdade de deixar TUDO (ou quase isso, rs) do jeito que você quiser e preferir.
 
-![visual-studio-code](./imgs/vscode.jpg)
-
 Em teoria, são mais simples que as IDEs. Alguns dos editores de texto voltados para desenvolvedores, permitem a inclusão de extensões, que podem ser: um tema visual para diretórios e cor do editor, um compilador, um linter ou até mesmo um adicional de atalhos de código para otimizar o desenvolvimento. Esses são alguns exemplos, a infinidade de possibilidade é maior do que eu poderia tentar descrever.
+
+![visual-studio-code](./imgs/vscode.jpg)
 
 Se você tunar teu editor de texto com várias extensões, ele se **assemelha** muito a uma IDE (e por muitos é até considerada como..). Algumas extensões fazem a *mesma coisa* que uma IDE faz. Aí vai do seu gosto pessoal, não tem muito o que discutir.
 
