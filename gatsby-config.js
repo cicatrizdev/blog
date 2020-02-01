@@ -8,7 +8,7 @@ module.exports = {
     siteLanguage: 'pt',
     ogLanguage: `pt_BR`,
     author: 'Pedro Mello',
-    authorDescription: 'front-end dev 🏈🍺💻',
+    authorDescription: 'software engineer 🏈🍺💻',
     avatar: '/perfil.jpg',
     twitterSite: '',
     twitterCreator: '',
@@ -28,14 +28,14 @@ module.exports = {
       resolve: 'gatsby-theme-chronoblog',
       options: {
         uiText: {
-          feedShowMoreButton: 'mostrat mais',
+          feedShowMoreButton: 'mostrar mais',
           feedSearchPlaceholder: 'pesquisa aí!',
           cardReadMoreButton: 'leia mais →',
           allTagsButton: 'todas as tags'
         },
         feedItems: {
           // global settings for feed items
-          limit: 50,
+          limit: 2,
           yearSeparator: true,
           yearSeparatorSkipFirst: true,
           contentTypes: {

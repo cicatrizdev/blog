@@ -1,6 +1,6 @@
 ---
 title: Terminal, IDE, Editor de Texto.. e agora?
-date: 2020-01-17
+date: 2020-01-017
 cover: ./imgs/cover.png
 description: Sou tr00, só codo no terminal.
 tags: ['post', 'dica', 'terminal', 'ide', 'editor-de-texto']
