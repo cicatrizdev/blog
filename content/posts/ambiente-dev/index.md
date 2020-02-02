@@ -27,7 +27,7 @@ Beleza, agora vai militar lá no Twitter. Me deixa ajudar a galera em paz.
 
 Um dev com um pc honesto e um fone com isolamento acústico não quer guerra com ninguém. E a *"matemática é simples"*: tu vai passar a maior parte do dia olhando pra tela do computador e tentando concentrar, logo precisa de um bom computador e um bom fone.
 
-Imagina você recebendo uma spec para desenvolver e seu computador **TRAVA NA HORA DE ABRIR** a spec ou seu editor de texto? Imagina o computador demorando uma eternidade para abrir **UMA ABRA NO CHROME** pra você pesquisar algo?
+Imagina você recebendo uma spec para desenvolver e seu computador **TRAVA NA HORA DE ABRIR** a spec ou seu editor de texto? Imagina o computador demorando uma eternidade para abrir **UMA ABA NO CHROME** pra você pesquisar algo?
 
 Amigo, não dá! Você precisa de uma parada que funcione e poupe suas dores de cabeça. Você não precisa de um pc gamer tunado para programar, mas tenha bom senso. Tem muita coisa boa no mercado por preço acessível.
 

@@ -12,7 +12,7 @@ Faaaaaaaala, galera das trevas. Tô aqui de novo, como prometido.
 
 Hoje vou groselhar um pouco sobre "**programadores de terminal** *VS* **programadores de IDE** *VS* **programadores de editor de texto**". Escolhi esse tema porque tive alguns problemas com isso tudo aí, então tô tentando dar uma luz pra quem tá perdido e é bom que eu revejo alguns conceitos. Nada melhor que preparar um material e descobrir que não sabe nada, né? :D
 
-Nessa discussão não existe **O MELHOR** ou **O PIOR**, existe o **O MAIS ADEQUADO PARA SITUAÇÃO 'X'** e **O MAIS ADEQUADO PARA SITUAÇÃO 'Y'**.
+Nessa discussão não existe **O MELHOR** ou **O PIOR**, existe **O MAIS ADEQUADO PARA SITUAÇÃO 'X'** e **O MAIS ADEQUADO PARA SITUAÇÃO 'Y'**.
 
 Bora entender o quê cada coisa significa antes de fazer uma escolha?
 

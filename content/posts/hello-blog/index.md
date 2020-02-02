@@ -34,7 +34,7 @@ A mais pouco mais de 2 anos, numa conversa de bar com o *Meganha*, fui encorajad
 
 A conversa evoluiu, as oportunidades foram aparecendo e então foi revelada minha maior paixão: ajudar os outros a entenderem e conhecerem algo diferente, evoluir junto com as pessoas e acompanhar o sucesso durante a caminhada.
 
-Lindo tudo isso, né? Pois é. Mas eu fui covarde. Tenho vergonha de falar em público, não consigo lidar com elogios (síndrome do impostor) e não sei ser assertivo. Muitas outras coisas, como essas que falei anteriormente, foram me travando de me expor e fazer o que realmente gosto. Tentei seguir os conselhos do meu amigo e gravar um curso para alguma plataforma educacional online, e eu sempre ficava insatisfeito/decepcionado com os resultados.
+Lindo tudo isso, né? Pois é. Mas eu fui covarde. Tenho vergonha de falar em público, não consigo lidar com elogios (síndrome do impostor) e não sei ser assertivo. Muitas outras coisas, como essas que falei anteriormente, foram me travando de expor e fazer o que realmente gosto. Tentei seguir os conselhos do meu amigo e gravar um curso para alguma plataforma educacional online, e eu sempre ficava insatisfeito/decepcionado com os resultados.
 
 Muito tempo depois, com a cabeça amadurecida, com algumas experiências (boas e ruins) na área, eu resolvi criar coragem e dar a cara a tapa. Esse aqui é **meu** espaço, o **meu** *"diário"* pra falar quantas groselhas eu tiver vontade e **ajudar** a maior quantidade de pessoas que eu conseguir!
 
@@ -62,7 +62,7 @@ A diferença de um bom programador e um excelente programador é saber um pouco 
 
 
 ### **Categorias**
-Vou dividir as postagens em categorias, já tenho algumas pensadas mas ao longo do caminho eu posso adicionar mais algumas. Elas serão:
+Vou dividir as postagens em categorias. Por hora, elas serão:
 - Post
   - Postagem longa, normalmente contando alguma experiência ou algum conteúdo mais elaborado.
 - Dicas
