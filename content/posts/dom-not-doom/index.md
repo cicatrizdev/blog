@@ -3,7 +3,7 @@ title: DOMinando o DOM
 date: 2020-02-016
 cover: ./img/cover.jpg
 description: Perdoem o cover feito no paint, ainda amo vocês e vou continuar trazendo conteúdo bom. Acessa ai pra saber mais sobre DOM, HTML DOM e mais umas paradinhas.
-tags: ['post, 'dom']
+tags: ['post', 'dom']
 ---
 
 Faaaaaala, meus compilados!! Tudo suave com vocês?
