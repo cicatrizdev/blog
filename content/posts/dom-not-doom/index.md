@@ -73,7 +73,7 @@ Quando falamos em **DOM** no ambiente de trabalho, normalmente estamos fazendo r
 
 Para reforçar essa quantidade de termos e deixar os conhecimentos cada vez mais sólidos:
 - **DOM** é a **FORMA DE REPRESENTAR**;
-- O **DOM** possui interfaces de implementação, tais como Window, Element, Document, Node, e algumas outras que você vai descobrir acessando [aqui](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model#DOM_interfaces) (adoro links com anchor :stuck_out_tongue_closed_eyes:);
+- O **DOM** possui interfaces de implementação, tais como Window, Element, Document, Node, e algumas outras que você vai descobrir acessando [aqui](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model#DOM_interfaces) (adoro links com anchor);
 - **HTML DOM** é uma **API** que utiliza a implementação da interface **Document**;
 
 Através desse **HTML DOM** que o JavaScript pode acessar, alterar, criar e remover (da página HTML):
@@ -84,7 +84,7 @@ Através desse **HTML DOM** que o JavaScript pode acessar, alterar, criar e remo
 
 E não para por aí...
 
-Os frameworks JavaScript (os **bons**, pelo menos) também possuem seu próprio sistema DOM, independente ao navegador. Aqui cabem alguns conceitos como [Shadow DOM](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM), [Virtual DOM](https://github.com/Matt-Esch/virtual-dom) e [Diferença entre DOM e Virtual DOM](https://pt.stackoverflow.com/questions/43169/qual-%C3%A9-a-diferen%C3%A7a-entre-dom-e-virtual-dom). Tô deixando de brinde pra vocês :smiley: ... mas não se limitem a eles, o contexto é muito mais profundo.
+Os frameworks JavaScript (os **bons**, pelo menos) também possuem seu próprio sistema DOM, independente ao navegador. Aqui cabem alguns conceitos como [Shadow DOM](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM), [Virtual DOM](https://github.com/Matt-Esch/virtual-dom) e [Diferença entre DOM e Virtual DOM](https://pt.stackoverflow.com/questions/43169/qual-%C3%A9-a-diferen%C3%A7a-entre-dom-e-virtual-dom). Tô deixando de brinde pra vocês... mas não se limitem a eles, o contexto é muito mais profundo.
 
 ---
 ## ./links-uteis
@@ -105,7 +105,7 @@ Não se esqueçam de baixar o DevDocs como aplicação desktop, ele quebra um ga
 E chegamos ao final de mais uma postagem nesse blog informativo e irreverente. Eu busquei passar pra vocês uma visão geral sobre o **DOM** e puxei um gancho para a API do **HTML DOM**, que é a forma que o JavaScript interage com nosso documento HTML.
 
 Obrigado, mais uma vez, por terem chego até aqui.
-Continuem dando feedback e interagindo comigo. Quero trazer o que for melhor para todos :heart:.
+Continuem dando feedback e interagindo comigo. Quero trazer o que for melhor para todos.
 
 
 Grande abraço, devs e !devs. Nos vemos daqui uns dias!!!
