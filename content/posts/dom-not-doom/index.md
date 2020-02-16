@@ -38,9 +38,9 @@ Vale lembrar que não estamos abordando ESPECIFICAMENTE o **HTML DOM** nem a **A
 
 Quando um navegador vai exibir um documento (uma página HTML, por exemplo), essa página é "baixada" para a memória local e é exibida automaticamente na tela. Portanto, a brincadeira começa já no nosso navegador e nesse modelo que é salvo na memória local.
 
-A partir do Window temos acesso a propriedades e métodos específicos, dentre essas propriedas estão as 3 que vamos citar abaixo. A lista é muito maior do que podemos discutir...
+A partir do Window temos acesso a propriedades e métodos específicos, dentre essas estão as 3 que vamos citar abaixo. A lista é muito maior do que podemos discutir...
 
-Em resumo, o topo da árvore é a janela do nosso navegador aberta.
+Em resumo, o topo da árvore é a janela aberta do nosso navegador.
 
 ### **Location, Document, History e +...**
 
