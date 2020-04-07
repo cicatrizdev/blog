@@ -94,7 +94,7 @@ Eu acessei e gostei bastante do que vi. Apesar do foco ser grande na mentoria, a
 > Sério isso?
 >> Claro, imbecil! Aprender e se divertir ao mesmo tempo é a melhor forma!
 
-É isso mesmo: jogos! Essa é uma listinha de alguns jogos que eu tenho criar o hábito de jogar pelo menos uma vez por semana pra auxiliar na fixação do conteúdo. São bem voltados pra CSS, que é minha maior dificuldade, e são ajudam muito a lembrar alguns conceitos.
+É isso mesmo: jogos! Essa é uma listinha de alguns jogos que eu tenho criar o hábito de jogar pelo menos uma vez por semana pra auxiliar na fixação do conteúdo. São bem voltados pra CSS, que é minha maior dificuldade, e ajudam muito a lembrar alguns conceitos.
 
 ### **Flexbox Froggy**
 
