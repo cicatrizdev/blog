@@ -1,7 +1,7 @@
 ---
 title: Quarentena para Desenvolvedores
-date: 2020-04-06
-# cover: ./image.jpg
+date: 2020-04-0o6
+cover: ./img/image.jpg
 description: Tá em casa de bobeira? Tá errado! Vem comigo nessas dicas pra te auxiliar a dar um up no conhecimento e encontrar aquela vaga bacana mesmo durante tempos de crise.
 tags: ['post', 'dicas', 'quarentena']
 ---
