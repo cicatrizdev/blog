@@ -352,6 +352,7 @@ O resultado final é algo parecido com isso aqui:
 ![arebaba](img/arebaba.jpg)
 
 Pode parecer bobagem isso que fizemos, mas vamos recapitular o processo todo:
+
 1. Criamos um projeto com o *runner* **NPX**, através do comando ``npx create-react-app nome-da-aplicação``;
 2. Conhecemos a estrutura de arquivos que o **create-react-app** cria;
 3. Identificamos cada pasta e seu significado;
@@ -367,7 +368,7 @@ Essa estranha sintaxe, misturando Javascript e HTML no mesmo arquivo é chamada 
 
 > Na verdade, o HTML nos arquivos Javascript não é exatamente HTML...
 
-![mindblowing](img/mindblowing.gif)
+![mindblowing](https://github.com/cicatrizwp/blog/blob/master/content/posts/react-part-1/img/mindblowing.gif)
 
 Essa é uma extensão de sintaxe do Javascript, que permite escrever elementos do React através do DOM.
 
@@ -377,7 +378,7 @@ O JSX caiu como uma luva para quem queria deixar a renderização mais dinâmica
 
 Se você ainda está confuso sobre o JSX ou não se sente seguro sobre o funcionamento dele, vou deixar essa palestra (em inglês) que a própria doc do React recomenda.
 
-[![React: Rethinking best practices](http://img.youtube.com/vi/x7cQ3mrcKaY/0.jpg)](http://www.youtube.com/watch?v=x7cQ3mrcKaY).
+[![React: Rethinking best practices](http://img.youtube.com/vi/x7cQ3mrcKaY/0.jpg)](http://www.youtube.com/watch?v=x7cQ3mrcKaY)
 
 ----
 
