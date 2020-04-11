@@ -367,6 +367,9 @@ E é sobre esse último ponto que vamos falar agora, pra encerrar o conteúdo de
 Essa estranha sintaxe, misturando Javascript e HTML no mesmo arquivo é chamada de JSX.
 
 > Na verdade, o HTML nos arquivos Javascript não é exatamente HTML...
+> > WTF COMO ASSIM??
+
+**MINDBLOWING!!!**
 
 ![mindblowing](https://media.giphy.com/media/Um3ljJl8jrnHy/giphy.gif)
 
