@@ -368,7 +368,7 @@ Essa estranha sintaxe, misturando Javascript e HTML no mesmo arquivo é chamada 
 
 > Na verdade, o HTML nos arquivos Javascript não é exatamente HTML...
 
-![mindblowing](https://github.com/cicatrizwp/blog/blob/master/content/posts/react-part-1/img/mindblowing.gif)
+![mindblowing](https://media.giphy.com/media/Um3ljJl8jrnHy/giphy.gif)
 
 Essa é uma extensão de sintaxe do Javascript, que permite escrever elementos do React através do DOM.
 
