@@ -387,8 +387,6 @@ Se você ainda está confuso sobre o JSX ou não se sente seguro sobre o funcion
 
 Na próxima postagem dessa série, vou explicar melhor como funciona a renderização do React (Virtual DOM) e aprofundar um pouco mais nos conceitos que já vimos até agora.
 
-Teremos um repositório específico para os próximo códigos, pra não ficar executando o `npx create-react-app` toda vez.
-
 Espero que tenham gostado e espero que tenham entendido pelo menos um pouco do que eu quis passar aqui.
 
 Qualquer dúvida ou comentários adicionais, me chamem em uma das minhas redes.
